@@ -8,3 +8,5 @@ bee.onclick = function(){
     console.log(dieRoll());
     document.getElementById("btn").innerHTML=dieRoll();
 };
+
+$(".red").css("transform", translateX(500px));

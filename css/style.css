@@ -132,3 +132,12 @@ Board positions - Price
     font-size: 20px;
     padding: 10px 30px 10px 20px;
     text-decoration: none;
+}
+#toad{
+    height: 50px;
+    width: 50px;
+}
+#red{
+    height: 50px;
+    width: 50px;
+}
