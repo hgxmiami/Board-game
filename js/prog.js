@@ -9,4 +9,3 @@ bee.onclick = function(){
     document.getElementById("btn").innerHTML=dieRoll();
 };
 
-$(".red").css("transform", translateX(500px));

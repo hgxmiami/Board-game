@@ -47,9 +47,11 @@ div #box-x:last-child {
 }
 #box-x{
     margin-right: 2px;
+    background: green;
 }
 #box-y{
     margin-bottom: 2px;
+    background: red;
 }
 div #box-y:last-child {
     margin-bottom: 0;
