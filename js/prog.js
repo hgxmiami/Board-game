@@ -3,10 +3,10 @@ function dieRoll(){
 
 }
 
-var bee = document.getElementById("btn");
+var bee = document.getElementById("red");
 bee.onclick = function(){
     console.log(dieRoll());
-    document.getElementById("btn").innerHTML=dieRoll();
+    document.getElementById("toad").innerHTML=dieRoll();
 };
 
 $(".red").css("transform", "translateX(500px)");
