@@ -138,6 +138,11 @@ Board positions - Price
 #toad{
     height: 50px;
     width: 50px;
+    position: relative;
+    transition: all 1s;
+    top: 60px;
+    right: 30px;
+    
 }
 #red{
     height: 50px;
@@ -150,4 +155,16 @@ Board positions - Price
 #shark{
     height: 80px;
     width: 75px;
+}
+#dice {
+    position: absolute;
+    border: 2px solid black;
+    width: 100px;
+    height: 72px;
+    top: 400px;
+    left: 350px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 28px;
+    
 }
